@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RM_Padang</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rumah Makan Padang</string>
+    <string name="nav_header_subtitle">Silahkan Pilih Menu Yang Tersedia</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_makan">Menu Makanan</string>
+    <string name="menu_minum">Menu Minuman</string>
+    <string name="menu_lain">Menu Lainnya</string>
+    <string name="about">About</string>
+    <string name="menu_logout">Logout</string>
+
+</resources>
